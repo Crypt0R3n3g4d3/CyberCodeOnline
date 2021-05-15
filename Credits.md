@@ -180,3 +180,4 @@ spyd3r
 [hildjj](https://github.com/hildjj)  
 [mr_moe](https://github.com/donburks)  
 [RubenVerg](https://github.com/rubenverg)  
+[Crypt0r3n3g4d3](https://githun.com/crypt0r3n3g4d3)
