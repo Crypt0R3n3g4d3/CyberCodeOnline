@@ -176,8 +176,9 @@ spyd3r
 ## Other Contributors
 [AdmiralDiemos](https://github.com/danofsatx)  
 [Arky](https://www.instagram.com/andreiarky)  
-[Blackstormx](https://github.com/blackstormx)  
+[Blackstormx](https://github.com/blackstormx)
+[DexterHuang](https://github.com/dexterhuang)
 [hildjj](https://github.com/hildjj)  
 [mr_moe](https://github.com/donburks)  
 [RubenVerg](https://github.com/rubenverg)  
-[DexterHuang](https://github.com/dexterhuang)
+
