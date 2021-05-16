@@ -1,5 +1,5 @@
 ## Developer
-[DexterHuang](https://github.com/DexterHuang)  
+[Crypt0r3n3g4d3](https://github.com/crypt0r3n3g4d3)  
 
 ## Moderators
 [alfaice](https://github.com/alfaice)  
@@ -176,8 +176,9 @@ spyd3r
 ## Other Contributors
 [AdmiralDiemos](https://github.com/danofsatx)  
 [Arky](https://www.instagram.com/andreiarky)  
-[Blackstormx](https://github.com/blackstormx)  
+[Blackstormx](https://github.com/blackstormx)
+[DexterHuang](https://github.com/dexterhuang)
 [hildjj](https://github.com/hildjj)  
 [mr_moe](https://github.com/donburks)  
 [RubenVerg](https://github.com/rubenverg)  
-[Crypt0r3n3g4d3](https://githun.com/crypt0r3n3g4d3)
+
